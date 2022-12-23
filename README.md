@@ -9,7 +9,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Reverse Engineering the Nu2 Engine and a new Version of Bingo!
-- 🌱 I’m currently learning Avalonia (MVVM) & C# / Hardware Design & Electronics
+- 🌱 I’m currently learning Avalonia (MVVM) & C# / Hardware Design & Electronics / C++ & Vulkan 
 - 📫 How to reach me: [Website in development ;)]
 <!-- - ⚡ Fun fact: -->
 
